@@ -1,0 +1,11 @@
+li{
+    list-style: none;
+}
+
+.box{
+    width: 1280px;
+    height: 720px;
+    background: url('../images/bg.png');
+    background-size: cover;
+}
+
